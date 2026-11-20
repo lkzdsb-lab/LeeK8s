@@ -1,0 +1,9 @@
+# Local IDE settings
+/.idea/
+/.vscode/
+
+# Local build and coverage output
+/bin/
+/dist/
+*.test
+/coverage.out
