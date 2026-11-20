@@ -2,6 +2,9 @@
 /.idea/
 /.vscode/
 
+# Local project notes
+/docs/
+
 # Local build and coverage output
 /bin/
 /dist/
